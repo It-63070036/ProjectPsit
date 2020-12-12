@@ -1,3 +1,13 @@
+<?php
+	$conn = mysqli_connect('ihost.it.kmitl.ac.th', 'it63070039_food', 'food1234', 'itf63070039_food');
+
+	$name = $_POST['Name'];
+	$comment = $_POST['Kcal'];
+	$id = $_POST['id'];
+
+    $sql = 'UPDATE Fastfood SET Name = "'.$name.'", Comment = "'.$comment.'" WHERE ID = '.$id.'';
+    
+?>
 <!DOCTYPE html>
 <html lang="en">
 
