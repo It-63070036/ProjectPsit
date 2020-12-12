@@ -3,7 +3,7 @@
 <title>Menu</title>
 </head>
 <body>
-    <from method="post">
+    <from method="post" action='update.php'>
         Menu :
         <p>Chicken</p>
         <input type="checkbox" name='l[]' value="450"/>450 kcal
