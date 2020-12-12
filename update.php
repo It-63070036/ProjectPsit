@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect('ihost.it.kmitl.ac.th', 'it63070039_food', 'food1234', 'itf63070039_food');
+	$conn = mysqli_connect('ihost.it.kmitl.ac.th', 'it63070039_food', 'food1234', 'it63070039_food');
 
 	$name = $_POST['Name'];
 	$comment = $_POST['Kcal'];
