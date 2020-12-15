@@ -18,7 +18,7 @@
     }
 
     .text-main {
-      color: white;
+      color: black;
       background-color: rgba(93, 94, 87, 0.3);
       text-decoration: none;
       border-radius: 15px;
