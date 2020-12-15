@@ -1,0 +1,27 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kritsanawipankhet/htdocs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kritsanawipankhet/htdocs/issues"
+  },
+  "homepage": "https://github.com/Kritsanawipankhet/htdocs#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-select": "^1.13.18",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "sweetalert": "^2.1.2"
+  }
+}
