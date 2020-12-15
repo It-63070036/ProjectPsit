@@ -57,7 +57,7 @@ include_once "./config/db-config.inc.php";
                 }
                 ?>
             </div>
-            <div class="row">
+            <div class="row mt-3 mb-3">
                 <div class="col-12 text-center">
                     <button type="submit" class="btn btn-success" id="calculate"><i class="fas fa-calculator"></i> Calculate</button>
                     <button type="button" class="btn btn-danger" id="reset"><i class="fas fa-undo-alt"></i> Reset</button>
